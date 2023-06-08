@@ -1,25 +1,24 @@
-# Hola, soy *Luis*, mucho gusto 👋
-## *Web Developer*
-Soy un apasionado del desarrollo web, y una vez interactué con este maravilloso mundo de la programación, quedé encantado.
+<h1 align="center">Hola, soy UserMarquez06, mucho gusto</h1>
 
-Una vez culminada mi carrera universitaria, me dediqué a estudiar las tecnologías relacionadas al desarrollo front-end, y, aunque he tenido tropiezos, los he sabido superar, ya que tengo un objetivo, conseguir mi primer trabajo y desempeñarme como "***Web Developer***".
+<p>Desde que conocí el desarrollo front-end, me he propuesto a estudiar sus tecnologías, ya que es algo que me encanta.<br> Aunque no soy el único que lo piensa, ya que en la actualidad hay muchos desarrolladores, pero siempre se puede salir adelante si te la crees.<br> A continuación te muestro las tecnologías que se usar, habilidades que poseo y un enlace cualquiera para simular mi portfolio web, así que espero que te la pases bien.</p>
 
-A continuación, te muestro las tecnologías que se utilizar, y sobre los proyectos que he realizado para reforzar y adquirir más conocimientos, te dejo el link de mi portfolio web.
+<div align="center">
+  <h2>Tecnologías</h2>
+  <img width="150" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" title="HTML5" /><img             width="150" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png" title="CSS3" /> <img width="150" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" title="JavaScript" />
+</div>
 
-## Tecnologías
-#### *HTML5*
-![HTML5](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png 'HTML5') 
-#### *CSS3*
-![CSS3](https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png "CSS3")
-#### *JavaScript*
-![JavaScript](https://logospng.org/download/javascript/logo-javascript-icon-256.png 'JavaScitpt')
-#### *Git*
-![Git](https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png 'Git')
+<div>
+  <h2>Habilidades</h2>
+  <ul>
+    <li>Organizado</li>
+    <li>Adaptabilidad</li>
+    <li>Puntualidad</li>
+  </ul>
+</div>
 
-<br><br>
+<h2 align="center">Portfolio Web</h2>
+<a href="https://google.com"><p align="center">Ver Portfolio</p></a>
 
-## *Portfolio Web*
-<https://google.com>
 
 <!--
 **UserMarquez06/UserMarquez06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
